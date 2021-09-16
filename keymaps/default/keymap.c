@@ -23,7 +23,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      */
     [0] = LAYOUT(
         MO(1), KC_MYCM, KC_MUTE,
-        KC_MPRV , KC_MPLY  , KC_MNXT
+        KC_Z , KC_X  , KC_C
     ),
     /*
         |               |   Increase Brightness  |     Mute   |
